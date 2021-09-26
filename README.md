@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning about embedded C for TI microcontrollers, PHP for websites and LC3
+- 👯 I’m looking to collaborate on fun projects
+- 💬 Ask me about anything :)
+- 📫 How to reach me: 
+     - Email: ish.mehta2310@gmail.com
+     - LinkedIn: https://www.linkedin.com/in/ish-mehta-529766166
+
+
 <!--
 **IshMehta/IshMehta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
