@@ -5,7 +5,7 @@
 - 💬 Ask me about anything :)
 - 📫 How to reach me: 
      - Email: ish.mehta2310@gmail.com
-     - LinkedIn: https://www.linkedin.com/in/ish-mehta-529766166
+     - LinkedIn: https://www.linkedin.com/in/ish-mehta
 
 
 <!--
