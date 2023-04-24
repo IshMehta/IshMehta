@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning about C for TI microcontrollers, PHP and Laravel for develping webpages and LC3 assembly
+- 🌱 I am currently leanring AI concepts for robotics such such as RRT, ICP and SLAM. 
 - 👯 I’m looking to collaborate on fun projects
 - 💬 Ask me about anything :)
 - 📫 How to reach me: 
