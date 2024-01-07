@@ -13,7 +13,7 @@
 
 
 
-- 🌱 I am currently learning AI concepts for robotics such such as RRT, ICP and SLAM. 
+- 🌱 I am currently learning AI concepts for robotics specifically those pertaining to perception and planning such as NeRF, Gaussain Splatting and SLAM.
 - 🔭 I’m currently working as a Software Developer Intern @ Schlumberger
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 📊 Machine Learning & Artificial Intelligence
